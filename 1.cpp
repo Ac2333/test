@@ -5,5 +5,6 @@
 
 int main() {
     std::cout << "ÄãºÃ" << std::endl;
+    return 1;
     return 0;
 }
